@@ -10,8 +10,7 @@
   },
   "homepage": "https://github.com/gabogits/storyb-components.git",
   "peerDependencies": {
-    "react": ">=16",
-    "typescript": "4.0.0"
+    "react": ">=16"
   },
   "release": {
     "branches": [
